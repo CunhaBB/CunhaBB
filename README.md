@@ -2,29 +2,30 @@
 
 **`Estudante de Engenharia de Software`**
 
-Me chamo Matheus Cunha, tenho 18 anos e sou natural de São Paulo. Atualmente, estou cursando Engenharia de Software na [FIAP](https://www.fiap.com.br/). Tenho grande interesse por tecnologia e estou sempre buscando aprender novas ferramentas, enquanto busco constantemente evoluir minhas habilidades e construir soluções práticas.
+Me chamo Matheus Cunha, tenho 18 anos e sou natural de São Paulo. Atualmente, estou cursando Engenharia de Software na FIAP. Tenho grande interesse por tecnologia e estou sempre buscando aprender novas ferramentas, enquanto busco constantemente evoluir minhas habilidades e construir soluções práticas.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/matheusmedeirosdacunha/
-" target="_blank">
+    <a href="https://www.linkedin.com/in/matheusmedeirosdacunha/" target="_blank">
         <img 
             alt="LinkedIn" 
             title="Confira meu perfil no LinkedIn" 
             src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://github.com/CunhaBB?tab=repositories" target="_blank">
-        <img 
-            alt="Repositórios" 
-            title="Total de repositórios" 
-            src="https://img.shields.io/badge/REPOSITÓRIOS-12-FF5733?style=for-the-badge&labelColor=FF5733&logo=github&logoColor=white"
-        />
-    </a>
+
     <a href="https://github.com/CunhaBB?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/CunhaBB?color=2ea44f&labelColor=2ea44f&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+
+    <a href="https://github.com/CunhaBB">
+        <img 
+            alt="Stars" 
+            title="Total de estrelas" 
+            src="https://img.shields.io/github/stars/CunhaBB?style=for-the-badge&label=Stars&logo=github"
         />
     </a>
 </p>
@@ -39,56 +40,112 @@ Me chamo Matheus Cunha, tenho 18 anos e sou natural de São Paulo. Atualmente, e
     title="HTML" 
     width="40px" 
     style="padding-right: 12px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
 />
+
 <img 
     align="left" 
     alt="CSS" 
     title="CSS"
     width="40px" 
     style="padding-right: 12px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
 />
+
 <img 
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="40px" 
     style="padding-right: 12px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Python" 
     title="Python"
     width="40px" 
     style="padding-right: 12px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Git" 
     title="Git"
     width="40px" 
     style="padding-right: 12px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
 />
 
 <img
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="C++" 
+    title="C++"
     width="40px" 
     style="padding-right: 12px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
 />
 
+<br/>
+<br/>
 
-<br/>
-<br/>
+---
 
 ### 📊 Estatísticas
 
-![https://github-readme-stats-sigma-five.vercel.app/api?username=CunhaBB&show_icons=true&theme=tokyonight](https://github-readme-stats-sigma-five.vercel.app/api?username=CunhaBB&show_icons=true&theme=tokyonight)
+<p>
+    <img 
+        align="left" 
+        alt="GitHub Stats" 
+        height="180" 
+        src="https://github-readme-stats.vercel.app/api?username=CunhaBB&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    />
 
-![Tecnologias](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CunhaBB&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=8&v=3)
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="180" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CunhaBB&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+ />
+
+</p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+---
+
+### 🔥 Sequência de Commits
+
+<p>
+    <img 
+        align="left" 
+        alt="GitHub Streak" 
+        src="https://streak-stats.demolab.com?user=CunhaBB&theme=tokyonight&locale=pt_BR"
+    />
+</p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+---
+
+### 🐍 Snake Animation
+
+![Snake animation](https://github.com/CunhaBB/CunhaBB/blob/output/github-contribution-grid-snake.svg)
