@@ -12,7 +12,6 @@ Me chamo Matheus Cunha, tenho 18 anos e sou natural de São Paulo. Atualmente, e
             src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-
     <a href="https://github.com/CunhaBB?tab=followers">
         <img 
             alt="Seguidores" 
@@ -20,7 +19,6 @@ Me chamo Matheus Cunha, tenho 18 anos e sou natural de São Paulo. Atualmente, e
             src="https://custom-icon-badges.demolab.com/github/followers/CunhaBB?color=2ea44f&labelColor=2ea44f&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-
     <a href="https://github.com/CunhaBB">
         <img 
             alt="Stars" 
