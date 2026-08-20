@@ -91,24 +91,6 @@ Me chamo Matheus Cunha, tenho 18 anos e sou natural de São Paulo. Atualmente, e
 
 ---
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180em" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=CunhaBB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-  />
-
-  <img 
-    align="left" 
-    alt="Tecnologias" 
-    height="180em" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CunhaBB&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=8"
-  />
-</p>
-
 <br/>
 <br/>
 <br/>
